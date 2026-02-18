@@ -4,10 +4,13 @@
 
 ## 📚 Table of Contents
 
-### 🔹 Frontend
+### 🔹 Languages
 
 1. [JavaScript](qa/JavaScript.md)
 2. [TypeScript](qa/TypeScript.md)
+
+### 🔹 Frontend
+
 3. [ReactJS](qa/ReactJS.md)
 4. [NextJS](qa/NextJS.md)
 5. [Redux Toolkit](qa/Redux-Tolkit.md)
