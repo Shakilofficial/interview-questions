@@ -26,10 +26,6 @@ Here is the index for all the Express.js questions:
 
 ---
 
-Sure! Here's the reformatted version of your questions **(1–15)** using the consistent structure like in question 20, ideal for clean markdown rendering with working index linking:
-
----
-
 ### 1. What is Express.js and why is it used?
 
 **Express.js** is a minimal and flexible web application framework for Node.js, designed to simplify the development of web and mobile applications. It handles routing, middleware, and connecting to databases, making it ideal for REST APIs and web servers.
