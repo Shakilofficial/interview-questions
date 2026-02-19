@@ -15,6 +15,7 @@
 4. [NextJS](qa/NextJS.md)
 5. [Redux Toolkit](qa/Redux-Tolkit.md)
 6. [TailwindCSS](qa/TailwindCSS.md)
+7. [React Native](qa/ReactNative.md)
 
 ### 🔹 Backend & Runtime
 
